@@ -1,0 +1,3 @@
+﻿  main.cpp
+D:\FLord35\Антон_учеба\1 курс Полихех\Практика\Project1\Project1\main.cpp(82): warning C4715: convertTextMonthToInt: значение возвращается не при всех путях выполнения
+  Project1.vcxproj -> D:\FLord35\Антон_учеба\1 курс Полихех\Практика\Project1\x64\Debug\Project1.exe

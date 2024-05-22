@@ -1,0 +1,5 @@
+Authorization failed - атака
+Sender <notification@russianpost.ru> accepted - чел нормальный
+Authorization failed - время неудачной сессии
+
+anlog smtp-1630.log 30.05.2021,23:53:18 31.05.2021,23:20:46
